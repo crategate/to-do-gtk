@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+gio = "0.19.8"
+glib = "0.19.8"
+gtk = "0.18.1"
